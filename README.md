@@ -1,6 +1,6 @@
 # rethinkfollow
 
-RethinkDB Go examples following change feeds. Will accompany an article on how to follow change feeds.
+RethinkDB Go examples following change feeds. Will accompany an article on how to follow changefeeds.
 
 ## Building
 
